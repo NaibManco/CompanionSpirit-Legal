@@ -5,4 +5,6 @@
 - 隐私政策：`privacy-policy.html`
 - 用户协议：`user-agreement.html`
 
+当前开发者实名主体：王龙飞
+
 当前联系邮箱：`1162558327@qq.com`
